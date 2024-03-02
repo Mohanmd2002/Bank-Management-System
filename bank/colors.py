@@ -1,0 +1,10 @@
+color_1="#f2bd41"
+color_2="blue"
+color_3="black"
+color_4="white"
+color_5="#34c7b1"
+color_6="#787478"
+color_7="red"
+
+font_1="times new roman"
+font_2="helvetica"
